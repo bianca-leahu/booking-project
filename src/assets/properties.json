@@ -1,0 +1,182 @@
+[
+  {
+    "type": "hotel",
+    "id": 1,
+    "name": "Luxury Resort & Spa",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368532952.jpg?k=3b4b30c9b8cc92b0a96df414d4327ca43cad879d303c453fd9366182881ced2f&o=&hp=1",
+    "availableFromDate": "2024-05-01",
+    "numberOfGuests": 2,
+    "pricePerNight": 300,
+    "rating": 4.8,
+    "location": {
+      "city": "Miami",
+      "country": "USA"
+    },
+    "amenities": ["Spa", "Pool", "Restaurant"]
+  },
+  {
+    "type": "apartment",
+    "id": 2,
+    "name": "Modern Downtown Apartment",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242562900.jpg?k=e788829ac9100b2755e3306e7bcfd14888cf630b0d110be667e83c89b41d7a04&o=&hp=1",
+    "availableFromDate": "2024-04-15",
+    "numberOfGuests": 4,
+    "pricePerNight": 150,
+    "rating": 4.5,
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "amenities": ["Kitchen", "Wifi", "Gym"]
+  },
+  {
+    "type": "villa",
+    "id": 3,
+    "name": "Seaside Luxury Villa",
+    "image": "https://www.homeinitaly.com/_cache/img_mgr/_data/catalog/villas/879/abaco-luxury-villas-porto-cervo-6_768x480_im_r7_h0_v0_t1_c000-000-000-255_q60.jpg",
+    "availableFromDate": "2024-06-01",
+    "numberOfGuests": 8,
+    "pricePerNight": 600,
+    "rating": 4.9,
+    "location": {
+      "city": "Bali",
+      "country": "Indonesia"
+    },
+    "amenities": ["Private Beach", "Infinity Pool", "Chef"]
+  },
+  {
+    "type": "hostel",
+    "id": 4,
+    "name": "Backpacker's Paradise Hostel",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/e6/66/93/backpackers-in-paradise.jpg",
+    "availableFromDate": "2024-04-20",
+    "numberOfGuests": 1,
+    "pricePerNight": 20,
+    "rating": 4.0,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "amenities": ["Dormitory", "Kitchen", "Common Area"]
+  },
+  {
+    "type": "hotel",
+    "id": 5,
+    "name": "Grand Downtown Hotel",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140631235.jpg?k=847e9abbd07001712b43593ca7a3d00c6bdaab65cbcff560830e0916fae26ac7&o=&hp=1",
+    "availableFromDate": "2024-04-25",
+    "numberOfGuests": 2,
+    "pricePerNight": 250,
+    "rating": 4.7,
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "amenities": ["Bar", "Fitness Center", "Concierge"]
+  },
+  {
+    "type": "apartment",
+    "id": 6,
+    "name": "Cozy Loft in Historic District",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502042241.jpg?k=41c63f791bcff35bf07e905f29e8d64e40388dbc916de120169f9843f4ebf198&o=&hp=1",
+    "availableFromDate": "2024-05-10",
+    "numberOfGuests": 2,
+    "pricePerNight": 120,
+    "rating": 4.3,
+    "location": {
+      "city": "Rome",
+      "country": "Italy"
+    },
+    "amenities": ["Balcony", "Air Conditioning", "Smart TV"]
+  },
+  {
+    "type": "villa",
+    "id": 7,
+    "name": "Hilltop Retreat Villa",
+    "image": "https://www.oliverstravels.com/uploads/tx_oliverstravels/tx_simply_dwellings/Hilltop-Retreat-Bay-Of-Kotor-Olivers-Travels-2.jpg",
+    "availableFromDate": "2024-07-01",
+    "numberOfGuests": 6,
+    "pricePerNight": 500,
+    "rating": 4.8,
+    "location": {
+      "city": "Phuket",
+      "country": "Thailand"
+    },
+    "amenities": ["Jacuzzi", "Mountain View", "Chef"]
+  },
+  {
+    "type": "hostel",
+    "id": 8,
+    "name": "Artistic Loft Hostel",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335723564.jpg?k=df7bb078e2c34501c828f23c7e15dc57acaffdba4e8785f6011a52a2a0a2a2b2&o=&hp=1",
+    "availableFromDate": "2024-05-05",
+    "numberOfGuests": 1,
+    "pricePerNight": 25,
+    "rating": 4.2,
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "amenities": ["Private Room", "Cafeteria", "Art Gallery"]
+  },
+  {
+    "type": "hotel",
+    "id": 9,
+    "name": "Seaview Resort & Spa",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/23/5a/97/swimming-pool.jpg?w=600&h=-1&s=1",
+    "availableFromDate": "2024-06-15",
+    "numberOfGuests": 2,
+    "pricePerNight": 350,
+    "rating": 4.9,
+    "location": {
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "amenities": ["Beach Access", "Luxury Spa", "Fine Dining"]
+  },
+  {
+    "type": "apartment",
+    "id": 10,
+    "name": "Charming City Center Apartment",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-632560271609325452/original/61b74234-a67c-458f-971c-a324516d47b8.jpeg?im_w=720",
+    "availableFromDate": "2024-05-20",
+    "numberOfGuests": 3,
+    "pricePerNight": 180,
+    "rating": 4.6,
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "amenities": ["Parking", "City View", "Gym"]
+  },
+  {
+    "type": "villa",
+    "id": 11,
+    "name": "Exotic Island Villa",
+    "image": "https://images.amazingaccom.com/thailand-koh-samui-tropical-island-villa-119984.904.505.scale.jpeg",
+    "availableFromDate": "2024-08-01",
+    "numberOfGuests": 10,
+    "pricePerNight": 800,
+    "rating": 5.0,
+    "location": {
+      "city": "Maui",
+      "country": "USA"
+    },
+    "amenities": ["Private Beach", "Infinity Pool", "Chef"]
+  },
+  {
+    "type": "hostel",
+    "id": 12,
+    "name": "Riverside Backpacker's Hostel",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/04/86/0c/riverside-nevsky-hostel.jpg?w=1200&h=-1&s=1",
+    "availableFromDate": "2024-05-15",
+    "numberOfGuests": 1,
+    "pricePerNight": 18,
+    "rating": 3.9,
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand"
+    },
+    "amenities": ["Riverside View", "Bar", "Common Kitchen"]
+  }
+]

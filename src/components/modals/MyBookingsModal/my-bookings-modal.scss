@@ -1,0 +1,38 @@
+.my-bookings-modal {
+  max-width: 900px;
+
+  &__list {
+    @media (max-width: calc(576px - 1px)) {
+      .ant-list-item {
+        flex-direction: column;
+
+        > div,
+        ul {
+          width: 100%;
+        }
+
+        > div {
+          margin-bottom: 24px;
+        }
+
+        ul {
+          margin: 0 !important;
+          display: flex;
+          justify-content: flex-end;
+        }
+      }
+    }
+
+    .ant-list-item-meta {
+      align-items: center !important;
+    }
+
+    &-description {
+      text-align: right;
+
+      @media (max-width: calc(576px - 1px)) {
+        text-align: left;
+      }
+    }
+  }
+}
